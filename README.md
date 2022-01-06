@@ -1,1 +1,3 @@
-# singan_res
+# Some SinGAN results for specific tasks
+
+* Animation
