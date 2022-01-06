@@ -1,4 +1,4 @@
-# Some SinGAN results for specific tasks
+# SinGAN results for animation
 
 ### Animation 1
 <img src="../main/animation1/original.jpeg" alt="drawing" width="200"/>
