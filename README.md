@@ -5,7 +5,7 @@
 
 :white_check_mark:  : **Leaf & grass movement by wind  ||  Breathing**
 
-:x: : **Unnatuaral leg movement at scale 0**
+:x: : **Unnatural leg movement at scale 0**
 
 ### Animation 2
 <img src="../main/animation2/original.jpeg" alt="drawing" width="200"/>
