@@ -14,4 +14,4 @@
 
 :large_orange_diamond: : **"Get out of the train" impression**
 
-:x: : **Unnatuaral leg movement at scale 0**
+:x: : **Unnatural leg movement at scale 0**
