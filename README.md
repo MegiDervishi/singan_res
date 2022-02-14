@@ -24,9 +24,7 @@ python inpainting.py --input_name <training_image_file_name> --mask_name <mask_i
 
 Please note that different injection scales will produce different inpainting effects. The coarsest injection scale equals 1. 
 
-# SinGAN results for animation
-
-### Animation 1
+### Animation 1 Results
 
 <img src="../main/animation1/original.jpeg" alt="drawing" width="200"/>
 
@@ -34,7 +32,7 @@ Please note that different injection scales will produce different inpainting ef
 
 :x: : **Unnatural leg movement at scale 0**
 
-### Animation 2
+### Animation 2 Results
 <img src="../main/animation2/original.jpeg" alt="drawing" width="200"/>
 
 :white_check_mark:  : **Train movement ||  Breathing || Heat**
